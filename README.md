@@ -27,7 +27,7 @@ Especificaciones del diseño:
 El juego está diseñado para generar aleatoriamente distintas estadísticas para los personajes. Los personajes tienen distintas habilidades
 y capacidades. Se elige un equipo, monstruos o humanos, y arranca el juego mediante turnos.
 
-## Imagenes
+## Imágenes
 - Del juego por [consola](https://github.com/enzoherbas/NosferatuGame/tree/main/nosferatuImagenes/Console).
 - Del juego por [interfaz grafica](https://github.com/enzoherbas/NosferatuGame/tree/main/nosferatuImagenes/Interfaz).
 
